@@ -1,6 +1,6 @@
 # Awesome Recall Bias in AI Literature Curation
 
-> 🧭 **New here?** Read [Quick Start](#quick-start) → [Topic Overview](#topic-overview) → [Repository Map](#repository-map)
+> 🧭 **New here?** Read [Quick Start](#-quick-start-read-this-first) → [Topic Overview](#-topic-overview) → [Repository Map](#-repository-map)
 
 ---
 
@@ -23,7 +23,7 @@ We provide:
 
 | Step | Action | File / Folder |
 |---|---|---|
-| 1 | Understand the problem | [Topic Overview](#topic-overview) |
+| 1 | Understand the problem | [Topic Overview](#-topic-overview) |
 | 2 | Read the original paper | `paper/Ai_Assissted_Research_Paper.pdf` |
 | 3 | See how citations were audited | `citation-audit/Citation_Integrity_Audit.pdf` |
 | 4 | Browse verified papers by theme | `paper/verified-scholary-papers/` |
@@ -35,21 +35,21 @@ We provide:
 
 ## 📑 Table of Contents
 
-- [Quick Start](#quick-start-read-this-first)
-- [Topic Overview](#topic-overview)
-- [AI-Assisted Research Paper](#ai-assisted-research-paper)
-- [Citation Integrity Audit](#citation-integrity-audit)
-- [Verified Scholarly Papers](#verified-scholarly-papers)
-- [Datasets](#datasets)
-- [Tools and Libraries](#tools-and-libraries)
-- [GitHub Implementations](#github-implementations)
-- [Tutorials and Learning Resources](#tutorials-and-learning-resources)
-- [Key Research Challenges](#key-research-challenges)
-- [Future Directions](#future-directions)
-- [Citation Verification Policy](#citation-verification-policy)
-- [Repository Map](#repository-map)
-- [License](#license)
-- [Acknowledgement](#acknowledgement)
+- [Quick Start](#-quick-start-read-this-first)
+- [Topic Overview](#-topic-overview)
+- [AI-Assisted Research Paper](#-ai-assisted-research-paper)
+- [Citation Integrity Audit](#-citation-integrity-audit)
+- [Verified Scholarly Papers](#-verified-scholarly-papers)
+- [Datasets](#-datasets)
+- [Tools and Libraries](#-tools-and-libraries)
+- [GitHub Implementations](#-github-implementations)
+- [Tutorials and Learning Resources](#-tutorials-and-learning-resources)
+- [Key Research Challenges](#-key-research-challenges)
+- [Future Directions](#-future-directions)
+- [Citation Verification Policy](#-citation-verification-policy)
+- [Repository Map](#-repository-map)
+- [License](#-license)
+- [Acknowledgement](#-acknowledgement)
 
 ---
 
