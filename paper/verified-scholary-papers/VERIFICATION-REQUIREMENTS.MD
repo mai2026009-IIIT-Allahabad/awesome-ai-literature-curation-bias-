@@ -22,7 +22,7 @@ Verification includes checking information such as:
 
 The complete requirements and verification guidelines are available here:
 
-**→ [VERIFICATION_REQUIREMENTS.md](VERIFICATION_REQUIREMENTS.md)**
+**→ [VERIFICATION-REQUIREMENTS.md](VERIFICATION_REQUIREMENTS.md)**
 
 Please read this file before adding a new paper.
 
@@ -65,7 +65,7 @@ Before submitting a paper:
 4. Explain why the paper is relevant.
 5. Add the paper using the required format.
 6. Follow the requirements in
-   **[VERIFICATION_REQUIREMENTS.md](VERIFICATION_REQUIREMENTS.md)**.
+   **[VERIFICATION-REQUIREMENTS.md](VERIFICATION-REQUIREMENTS.md)**.
 
 ### Suggested Paper Format
 
