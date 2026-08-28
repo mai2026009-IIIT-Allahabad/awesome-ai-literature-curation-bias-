@@ -22,7 +22,7 @@ Verification includes checking information such as:
 
 The complete requirements and verification guidelines are available here:
 
-**→ [VERIFICATION-REQUIREMENTS.md](VERIFICATION_REQUIREMENTS.md)**
+**→ [VERIFICATION-REQUIREMENTS.md](VERIFICATION-REQUIREMENTS.md)**
 
 Please read this file before adding a new paper.
 
